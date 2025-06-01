@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Frightfullyy
-- 👀 I’m interested in ... Touhou
-- 🌱 I’m currently learning ... idk
-- 💞️ I’m looking to collaborate on ... idk
-- 📫 How to reach me ... idk
+- 👀 I’m interested in ... Japanese
+- 🌱 I’m currently learning ... Java, C
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... Touhou songs is AMAZING!!!
 
